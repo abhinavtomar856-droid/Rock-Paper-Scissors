@@ -17,6 +17,7 @@ h1 {
   justify-content: center;
   text-align: center;
   padding-top: 30px;
+  gap:32px;
 }
 .choice:hover {
   opacity: 0.5;
@@ -27,8 +28,8 @@ h1 {
   width: 180px;
 }
 img {
-  height: 180px;
-  width: 180px;
+  height: 240px;
+  width: 200px;
   object-fit: cover;
   border-radius: 40%;
 }
@@ -37,7 +38,7 @@ img {
   justify-content: center;
   text-align: center;
   gap: 50px;
-  padding: 55px;
+  padding: 80px;
   font-size: 35px;
 }
 
@@ -46,7 +47,7 @@ img {
   font-size: 4rem;
 }
 #msg {
-  font-size: 34px;
+  font-size: 25px;
   color: white;
   background-color: #45b1e8;
   display: inline;
